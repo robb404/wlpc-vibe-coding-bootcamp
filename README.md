@@ -4,7 +4,7 @@ Three days.
 
 What's here:
 
-- `labs/`: the lab guides, one PDF each, numbered in course order
+- `labs/`: the lab guides, one PDF each, numbered by module
 - `converter/`: the files for the wireless design file converter lab
 - `slides/`: the slides, as one PDF, added after the class
 
@@ -37,3 +37,4 @@ What's here:
 - Day 1: `labs/05 Lab - What a plugin costs.pdf`
 - Day 2: `labs/08 Lab - Install the pipeline, then write your file.pdf`
 - Day 2: `labs/09 Lab - Wireless design file converter.pdf`
+- Day 3: `labs/10 Lab - Ship your own.pdf`
