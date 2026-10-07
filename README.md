@@ -35,6 +35,7 @@ What's here:
 - Day 1: `labs/04 Lab - Your snake, live.pdf`
 - Day 1: `labs/05 Lab - A skill that writes like you.pdf`
 - Day 1: `labs/05 Lab - What a plugin costs.pdf`
+- Day 2: `labs/07 Lab - Two servers, one plug.pdf`
 - Day 2: `labs/08 Lab - Install the pipeline, then write your file.pdf`
 - Day 2: `labs/09 Lab - Wireless design file converter.pdf`
 - Day 3: `labs/10 Lab - Ship your own.pdf`
